@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WingShader01Material
+  m_Name: WingFireShaderMaterial2
   m_Shader: {fileID: -6465566751694194690, guid: 6bf77f6fbf0b77748bad58cbdd24e93f,
     type: 3}
   m_ShaderKeywords: 
@@ -23,16 +23,16 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_C3B925C6:
-        m_Texture: {fileID: 2800000, guid: d69e166bcd4e83d42812c9c729d2ddad, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7574cd126ffeaf840b7a547ff99c0aad, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_8D9E0045: 2
     - Vector1_A1ED7292: 0.1
     - Vector1_A6E992DF: 16.2
-    - Vector1_E5176C5: 0.098
+    - Vector1_E5176C5: 0.035
     m_Colors:
-    - Color_DA72460A: {r: 10.680627, g: 0.0985397, b: 0, a: 1}
+    - Color_DA72460A: {r: 0.7398785, g: 1.0322822, b: 14.259475, a: 1}
     - Vector2_AB2CE620: {r: -0.06, g: 0.16, b: 0, a: 0}
     - Vector2_C813B924: {r: 0, g: 0.15, b: 0, a: 0}
   m_BuildTextureStacks: []
